@@ -1,0 +1,5 @@
+package com.CardTask.Repository;
+
+public interface SubTaskRepository {
+
+}

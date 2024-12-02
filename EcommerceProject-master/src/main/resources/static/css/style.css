@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+.card-sh{
+	box-shadow : 0 0 8px 0 rgba(0,0,0,0.3);
+}
+
+.cat-div{
+		box-shadow : 0 0 10px rgba(0,0,0,.1);
+	
+}
+
+.error{
+	color:red;
+}
+
+/* .box img{
+	display: block;
+	width:100px;
+	border-radius: 5px;
+	
+} */
+
+.box:hover{
+	transform:scale(1.3);
+	z-index:2;
+	
+	}
+	
+	/* styles.css */
+
+/* Hover effect for images */
+.product-image-container img {
+    transition: transform 0.3s ease;
+}
+
+.product-image-container:hover img {
+    transform: scale(1.2);
+}
+	

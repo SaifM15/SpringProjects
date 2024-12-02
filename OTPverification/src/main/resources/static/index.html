@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OTP Verification</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Linking the CSS file -->
+</head>
+<body>
+    <div class="container">
+        <h1>OTP Verification</h1>
+        
+        <!-- OTP Generation Form -->
+        <div class="form-container">
+            <h2>Generate OTP</h2>
+            <form id="generateOtpForm">
+                <label for="emailOrPhone">Enter Email or Phone:</label>
+                <input type="text" id="emailOrPhone" name="emailOrPhone" placeholder="Email or Phone" required>
+                <button type="submit">Generate OTP</button>
+            </form>
+        </div>
+        
+        <!-- OTP Validation Form -->
+        <div class="form-container">
+            <h2>Validate OTP</h2>
+            <form id="validateOtpForm">
+                <label for="otp">Enter OTP:</label>
+                <input type="text" id="otp" name="otp" placeholder="Enter OTP" required>
+                <button type="submit">Validate OTP</button>
+            </form>
+        </div>
+    </div>
+
+    <footer>
+        <p>Powered by Your Company</p>
+    </footer>
+</body>
+</html>

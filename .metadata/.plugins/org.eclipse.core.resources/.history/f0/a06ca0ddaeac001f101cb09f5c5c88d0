@@ -1,0 +1,15 @@
+package com.BankingApplication.Banking.Impl;
+
+import com.BankingApplication.Banking.Dto.AccountDto;
+import com.BankingApplication.Banking.Entity.Account;
+import com.BankingApplication.Banking.Service.AccountService;
+
+public class AccountServiceImpl  implements AccountService{
+
+	@Override
+	public Account createAccount(AccountDto accountdto) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

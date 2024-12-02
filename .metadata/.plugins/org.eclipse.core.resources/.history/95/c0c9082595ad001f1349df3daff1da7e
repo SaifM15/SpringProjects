@@ -1,0 +1,10 @@
+package com.BankingApplication.Banking.Service;
+
+import com.BankingApplication.Banking.Dto.AccountDto;
+import com.BankingApplication.Banking.Entity.Account;
+
+public interface AccountService {
+	
+	AccountDto createAccount(AccountDto accountdto);
+
+}

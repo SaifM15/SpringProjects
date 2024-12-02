@@ -1,0 +1,5 @@
+package com.vrvSecurity.RBAC.Repository;
+
+public interface RoleRepository {
+
+}

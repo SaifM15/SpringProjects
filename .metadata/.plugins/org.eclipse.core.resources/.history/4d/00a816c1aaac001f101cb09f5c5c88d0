@@ -1,0 +1,5 @@
+package com.BankingApplication.Banking.Dto;
+
+public class AccountDto {
+
+}

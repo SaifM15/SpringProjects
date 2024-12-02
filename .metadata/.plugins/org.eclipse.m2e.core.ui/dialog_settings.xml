@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\riyaj\Downloads\Authentication,Authorization and RBAC"/>
+			<item value="C:\Users\riyaj\Downloads\Bank-App"/>
+			<item value="C:\Users\riyaj\Desktop\Spring Tool Suite\JobPortal-master"/>
+			<item value="C:\Users\riyaj\Downloads\CRUD\Category-Project"/>
+			<item value="C:\Users\riyaj\Downloads\e-commerce system\e-commerce-system"/>
+			<item value="C:\Users\riyaj\Downloads\userM\UserManagementProjectTask"/>
+			<item value="C:\Users\riyaj\Downloads\Employee"/>
+			<item value="C:\Users\riyaj\Desktop\Spring Tool Suite\EcommerceProject-master"/>
+			<item value="C:\Users\riyaj\Desktop\Spring Tool Suite\FoodOrderSystem-master"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

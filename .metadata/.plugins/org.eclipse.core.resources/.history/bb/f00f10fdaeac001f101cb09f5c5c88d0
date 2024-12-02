@@ -1,0 +1,32 @@
+package com.BankingApplication.Banking.Impl;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.autoconfigure.AutoConfigureOrder;
+import org.springframework.stereotype.Service;
+
+import com.BankingApplication.Banking.Dto.AccountDto;
+import com.BankingApplication.Banking.Entity.Account;
+import com.BankingApplication.Banking.Repository.AccountRepository;
+import com.BankingApplication.Banking.Service.AccountService;
+
+@Service
+public class AccountServiceImpl  implements AccountService{
+	
+	@Autowired
+	private AccountRepository accountRepository;
+
+	@Override
+	public Account createAccount(AccountDto accountdto) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public AccountRepository getAccountRepository() {
+		return accountRepository;
+	}
+
+	public void setAccountRepository(AccountRepository accountRepository) {
+		this.accountRepository = accountRepository;
+	}
+
+}

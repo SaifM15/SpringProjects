@@ -1,0 +1,5 @@
+package com.vrvSecurity.RBAC.Controller;
+
+public class AdminController {
+
+}

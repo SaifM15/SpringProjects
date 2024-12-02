@@ -1,0 +1,12 @@
+package com.BankingApplication.Banking.Entity;
+
+public class Account {
+	
+	private Long id;
+	
+	private String accountHolderName;
+	
+	private double balance
+	
+
+}

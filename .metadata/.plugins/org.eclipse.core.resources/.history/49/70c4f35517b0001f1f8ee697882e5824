@@ -1,0 +1,5 @@
+package com.vrvSecurity.RBAC.DTO;
+
+public class UserDTO {
+
+}
